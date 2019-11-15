@@ -8,6 +8,13 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+App  Motiva e app start nos meus estudos em desenvolvido móbile na plataforma flutter com a linguagem Dart.
+
+https://flutter.dev/docs
+
+https://dart.dev/guides
+
+
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
